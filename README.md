@@ -1,5 +1,6 @@
-#The visual Analysis of S&P500 data 
-##Market analysis
+# The visual Analysis of S&P500 data 
+
+## Market analysis
 There are six visualizations of the S&P500 data :
 1.Rolling Returns with window period of 252 trading days
 2.Daily returns 
@@ -15,7 +16,8 @@ There are six visualizations of the S&P500 data :
  From 7th figure we can closely examine the daily returns as we can get both positive and negative values after 5th sigma(sd) as well which has approx 0.000000573 probability of occurance which suggest us the extremes are more often in market 
  From 8th figure(Volatility Clustering), we can see the market regime and shock of a crisis or rallies more clearly. The 2008 crisis and covid crisis is clearly captured in the graph
 
- ##Pyschological Analysis 
+ ## Pyschological Analysis 
+ 
  These visualization shows the amrket behaviour which is mostly run by human behaviour. The first 4 visualizations shows that the market is not normal because it is run y mostly irrational beings i.e human.
  The rolling kurtosis and skewness shows us the panic selling and crashes of marekt in 2008 clearly and then people get optimistic after onwards and a bull market after that crisis.
  The Zoomed version of daily returns shows us the human behaviour of panic selling while crisis and euphoric buying at rallies which resulted to values after 5 sigma(SD).
